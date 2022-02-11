@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: whitesmoke
+}
+
+img{
+    height: 100px;
+    margin: -28px;
+    margin-top: 176px;
+    margin-left: 232px;
+}
+
+h2{
+    margin-left: 261px;
+    margin-top: 15px;
+    font-size: 31px;
+    font-weight: normal;
+}
+
+.container{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    border-radius: 10px;
+    display: table-caption;
+    border: white;
+    background-color: white;
+    margin-left: 857px;
+    margin-top: -216px;
+    padding-top: 14px;
+    padding-left: 14px;
+    padding-right: 14px;
+    height: 344px;
+}
+
+#hi{
+    border: 1px solid rgb(206, 193, 193);
+    font-size: 17px;
+    border-radius: 5px;
+    /* height: 45px; */
+    padding: 16px;
+    width: 335px;
+    margin-bottom: 12px;
+}
+
+#hi1{
+    border: 1px solid rgb(206, 193, 193);
+    font-size: 17px;
+    border-radius: 5px;
+    /* height: 45px; */
+    padding: 16px;
+    width: 335px;
+    margin-bottom: 12px;
+}
+
+.heor{
+    cursor: pointer;
+    color: white;
+    font-size: 20px;
+    width: 368px;
+    line-height: 48px;
+    background: #166fe5;
+    border: none;
+    border-radius: 6px;
+    margin-bottom: 17px;
+}
+
+a{
+    text-decoration: none;
+    margin-top: 5px;
+    cursor: pointer;
+    color: #166fe5;
+}
+
+.heir{
+    cursor: pointer;
+    border: none;
+    background-color: rgb(31, 173, 31);
+    color: white;
+    margin-top: 28px;
+    height: 48px;
+    width: 184px;
+    border-radius: 6px;
+    font-size: 17px;
+    font-weight: bold;
+}
+
